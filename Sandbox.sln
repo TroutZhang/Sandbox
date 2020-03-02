@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C++", "C++", "{2022273D-D347-4E2B-8A07-92A85D302140}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{3F5CD965-A0DD-4DD3-B26F-C66B188AABF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Debug|x64.ActiveCfg = Debug|x64
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Debug|x64.Build.0 = Debug|x64
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Debug|x86.ActiveCfg = Debug|Win32
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Debug|x86.Build.0 = Debug|Win32
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Release|x64.ActiveCfg = Release|x64
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Release|x64.Build.0 = Release|x64
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Release|x86.ActiveCfg = Release|Win32
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30AB817F-BBDE-4DDF-9002-DCDDC10D5496} = {2022273D-D347-4E2B-8A07-92A85D302140}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9BF5952-E30C-4B36-A3C7-7A47A87DFEA4}
+	EndGlobalSection
+EndGlobal
